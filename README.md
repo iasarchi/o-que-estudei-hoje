@@ -24,4 +24,4 @@ link do exercicio: https://github.com/iasarchi/exercicio-html.git
 
 🔹 Origem do CSS
 
-link repositorio de estudos:
+link repositorio de estudos: https://github.com/iasarchi/CSS
