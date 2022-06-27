@@ -14,3 +14,8 @@
 link repositorio de estudos: https://github.com/iasarchi/HTML.git
 
 link do exercicio: https://github.com/iasarchi/exercicio-html.git
+
+## Semana 2️⃣
+🔹 Conhecendo o CSS
+
+
