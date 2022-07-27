@@ -24,4 +24,6 @@ link do exercicio: https://github.com/iasarchi/exercicio-html.git
 
 🔹 Origem do CSS
 
+🔹 Estudando unidades
+
 link repositorio de estudos: https://github.com/iasarchi/CSS
